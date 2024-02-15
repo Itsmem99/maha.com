@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+    color: black;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(255, 173, 254);
+    padding: 20px;
+    color: white;
+    p {
+        font-size: 16px;
+    }
